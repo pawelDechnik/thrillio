@@ -1,0 +1,31 @@
+package com.semanticsquare.thrillio.constans;
+
+public class MovieGenere {
+	
+	public static final String CLASSICS="Classics";
+	public static final String DRAMA="Drama";
+	public static final String SCIFI_AND_FANTASY="Sci-Fi & Fantasy";
+	public static final String COMEDY="Comedy";
+	public static final String CHILDREN_AND_FAMILY="Children & Family";
+	public static final String ACTION_AND_ADVENTURE="Action & Adventure";
+	public static final String Thrillers="Thrillers";
+	public static final String MUSIC_AND_MUSICALS="Music & Musicals";
+	public static final String TELEVISION="Television";
+	public static final String HORROR="Horror";
+	public static final String SPECIAL_INTEREST="Special Interest";
+	public static final String INDEPENDENT="Independent";
+	public static final String SPORTS_AND_FITNESS="Sport & Fitness";
+	public static final String ANIME_AND_ANIMATION="Anime & Animation";
+	public static final String GAY_AND_LESBIAN="Gay & Lesbian";
+	public static final String CLASSIC_MOVIE_MUSICALS="Classic Movie Miusicals";
+	public static final String FAITH_AND_SPIRITUALITY="faith & Spirituality";
+	public static final String FORGEIN_ACTION_AND_ADVENTURE="Art";
+	public static final String FORGEIN_THRILLERS="Forgein Thrillers";
+	public static final String TV_SHOWS="TV Shows";
+	public static final String PHILOSOPHY="philosphy";
+	public static final String DRAMAS="Dramas";
+	public static final String ROMANTIC_MOVIES="Romantic Movies";
+	public static final String COMEDIES="Comedies";
+	public static final String DOCUMENTARIES="Documentaries";
+	public static final String FORGEIN_MOVIES="Forgein Movies";
+}
